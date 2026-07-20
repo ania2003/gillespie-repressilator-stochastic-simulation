@@ -27,16 +27,10 @@ The original notebook was reorganized into reusable Python modules and a clean a
 ├── LICENSE
 ├── requirements.txt
 ├── run_analysis.py
-├── notebooks/
-│   └── gillespie_repressilator_analysis.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── repressilator.py
-│   └── gene_expression.py
-├── figures/
-├── results/
-└── legacy/
-    └── Gillespie_original.ipynb
+├── gillespie_repressilator_analysis.ipynb
+├──__init__.py
+├── repressilator.py
+     └── gene_expression.py
 ```
 
 ## Installation
