@@ -24,7 +24,6 @@ The original notebook was reorganized into reusable Python modules and a clean a
 ```text
 .
 ├── README.md
-├── LICENSE
 ├── requirements.txt
 ├── run_analysis.py
 ├── gillespie_repressilator_analysis.ipynb
